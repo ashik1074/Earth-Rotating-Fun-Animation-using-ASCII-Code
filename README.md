@@ -27,8 +27,6 @@ This project brings you a fun and engaging ASCII-based Earth rotation animation 
 ## Contribution
 Feel free to enhance the animation, tweak the rotation speed, or add more features. Pull requests are always welcome!
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
